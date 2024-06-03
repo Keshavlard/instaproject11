@@ -1,3 +1,3 @@
-# instaproject11
+# smallproject11
 
 animated background with css only
